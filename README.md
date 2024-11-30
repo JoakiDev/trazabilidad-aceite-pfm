@@ -11,7 +11,7 @@ half crop demise hello canoe rebel figure flock turkey day elephant wheat
 
 ## Cuentas
 
-**Cuentas para pruebas JOAQUIN**
+**Cuentas para pruebas de JOAQUIN**
 
 Accounts:
 - Admin:
