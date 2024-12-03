@@ -7,7 +7,7 @@ import { useRouter } from 'next/navigation'
 
 // Network configuration
 const SUPPORTED_NETWORKS = {
-    anvil: 31337,  // Local Anvil network
+    anvil: 2442,  // Local Anvil network
 } as const
 
 // Types for better type safety

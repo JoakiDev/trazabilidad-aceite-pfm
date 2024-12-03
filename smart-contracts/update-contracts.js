@@ -3,7 +3,7 @@ const path = require('path');
 
 // Leer las direcciones de los archivos de broadcast más recientes
 function getContractAddress(contractName, scriptName) {
-    const broadcastDir = path.join(__dirname, 'broadcast', `${scriptName}.s.sol`, '31337', 'run-latest.json');
+    const broadcastDir = path.join(__dirname, 'broadcast', `${scriptName}.s.sol`, '2442', 'run-latest.json');
     const broadcastLog = JSON.parse(fs.readFileSync(broadcastDir, 'utf8'));
     const deployTx = broadcastLog.transactions.find(tx => tx.contractAddress);
     return deployTx.contractAddress;

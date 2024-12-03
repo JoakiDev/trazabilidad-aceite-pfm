@@ -1,7 +1,7 @@
 // Direcciones y ABIs de los contratos
 export const CONTRACTS = {
   Usuarios: {
-    address: "0x5fbdb2315678afecb367f032d93f642f64180aa3",
+    address: "0x6533158b042775e2FdFeF3cA1a782EFDbB8EB9b1",
     abi: [
   {
     "type": "constructor",
@@ -257,7 +257,7 @@ export const CONTRACTS = {
 ]
   },
   Tokens: {
-    address: "0xdc64a140aa3e981100a9beca4e685f962f0cf6c9",
+    address: "0xF85895D097B2C25946BB95C4d11E2F3c035F8f0C",
     abi: [
   {
     "type": "constructor",
@@ -839,7 +839,7 @@ export const CONTRACTS = {
 ]
   },
   Certificate: {
-    address: "0x5fc8d32690cc91d4c39d9d3abcbd16989f875707",
+    address: "0x0b27a79cb9C0B38eE06Ca3d94DAA68e0Ed17F953",
     abi: [
   {
     "type": "constructor",
